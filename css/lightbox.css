@@ -1,6 +1,6 @@
 /* Preload images */
 body:after {
-  content: url(../img/close.png) url(../img/loading.gif) url(../img/prev.png) url(../img/next.png);
+  content: url(https://i.miji.bid/2024/03/01/527025d541152dfc5418536f076c4b2f.png) url(https://i.miji.bid/2024/03/01/bf17c03c832b6f61bd94b937666633b2.gif) url(https://i.miji.bid/2024/03/01/b7ce086e3090f71d80be2e5ac615beeb.png) url(https://i.miji.bid/2024/03/01/b7ce086e3090f71d80be2e5ac615beeb.png);
   display: none;
 }
 
